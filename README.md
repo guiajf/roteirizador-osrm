@@ -676,13 +676,4 @@ Luu, Quang Trung; Aibin, Michal. *Traveling Salesman Problem: Exact Solutions vs
 
 Veness, Chris. *Calculate distance, bearing and more between latitude/longitude points*, 2022. Disponível em: https://www.movable-type.co.uk/scripts/latlong.html. Acesso em: 24 maio 2026.
 
-**IMAGEM ARTIGO LINKEDIN**
 
-Imagem: Traquair_House_Maze.jpg
-
-Fonte: https://commons.wikimedia.org/wiki/File:Maze_01.svg
-
-
-```python
-
-```
