@@ -647,8 +647,10 @@ Exibimos o mapa gerado diretamente no notebook. O mapa inclui camadas com as rot
 
 
 ```python
-# display(mapa)
+display(mapa)
 ```
+
+![](roteiros_osrm_clusters.png)
 
 **Considerações finais**
 
