@@ -658,6 +658,8 @@ Este projeto desenvolveu um roteirizador para o concurso "Comida di Buteco" util
 
 A implementação alcançou resultados satisfatórios nas quatro etapas fundamentais do roteirizador. Na etapa de clusterização, os 40 bares foram agrupados em 8 *clusters* geograficamente coerentes utilizando o algoritmo *K-Means*, o que permitiu segmentar o problema em subproblemas de menor escala. Em seguida, na otimização, a heurística do *vizinho mais próximo* resolveu o *Problema do Caixeiro Viajante aberto* dentro de cada *cluster*, gerando rotas otimizadas que respeitam a ordem de visita sugerida. Quanto à métrica de desempenho, a distância total percorrida foi de 42,0 km no modo de condução *driving*, valor compatível com a dispersão geográfica dos estabelecimentos. Por fim, na visualização, um mapa interativo gerado com a biblioteca **Folium** permite a inspeção geoespacial detalhada de todas as rotas, facilitando a validação dos resultados.
 
+Acesse o mapa interativo em: https://guiajf.github.io/roteirizador-osrm/.
+
 
 
 **Referências**
