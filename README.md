@@ -12,7 +12,7 @@ Além disso, a infraestrutura pública do **OSRM** é mantida pela comunidade e 
 
 ### Bibliotecas
 
-## Carregamos as seguintes bibliotecas:
+### Carregamos as seguintes bibliotecas:
 
 - **pandas**: biblioteca fundamental para análise de dados em Python, oferece estruturas como DataFrame e Series para manipulação e análise de dados tabulares. Neste projeto, é utilizada para carregar e inspecionar a lista dos 40 bares participantes.
 
